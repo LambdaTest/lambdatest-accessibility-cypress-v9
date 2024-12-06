@@ -1,4 +1,4 @@
-# Step-by-Step guide to trigger your Selenium tests using Accessibility Tool
+# Step-by-Step guide to trigger your Cypress v09 tests using Accessibility Tool
 
 ## Prerequisites
 
